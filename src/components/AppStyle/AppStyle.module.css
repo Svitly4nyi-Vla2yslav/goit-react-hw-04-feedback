@@ -1,0 +1,15 @@
+ body{
+  display: flex;
+  font-size: 40px;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  flex-direction: column;
+ 
+}
+
+
+
+
+
